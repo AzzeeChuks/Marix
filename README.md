@@ -1,2 +1,3 @@
-# Marix
+# Marixx
+
 Discover Campus Products &amp; Businesses
